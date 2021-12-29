@@ -1,5 +1,16 @@
 package com.anurag.binarysearch;
 
+/**
+ * Find the floor of a number
+ *
+ * ex.
+ * arr = [12,17,25,27,45]
+ *
+ * if target is 19,
+ * floor will be 17
+ *
+ */
+
 public class Floor {
     public static void main(String[] args) {
         int[] arr = {-18, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 89};
