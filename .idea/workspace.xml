@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08d6de35-a456-403f-aa44-e7dcf1258738" name="Changes" comment="bs">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anurag/binarysearch/SmallestLetterGreaterThanTarget.java" afterDir="false" />
+    <list default="true" id="08d6de35-a456-403f-aa44-e7dcf1258738" name="Changes" comment="solved a problem!">
+      <change afterPath="$PROJECT_DIR$/src/com/anurag/binarysearch/FindInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anurag/binarysearch/PeakIndexInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anurag/binarysearch/PositionInInfiniteSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/anurag/binarysearch/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anurag/binarysearch/Floor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,22 +96,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.SmallestLetterGreaterThanTarget">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anurag.binarysearch.BinarySearch" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.anurag.binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anurag.binarysearch.Ceiling" />
+  <component name="RunManager" selected="Application.PeakIndexInMountainArray">
+    <configuration name="FirstandLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anurag.binarysearch.FirstandLastPosition" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +123,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.anurag.Main" />
+    <configuration name="PeakIndexInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anurag.binarysearch.PeakIndexInMountainArray" />
       <module name="dsa" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anurag.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionInInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anurag.binarysearch.PositionInInfiniteSortedArray" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anurag.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,18 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.Ceiling" />
+      <item itemvalue="Application.FirstandLastPosition" />
       <item itemvalue="Application.Floor" />
+      <item itemvalue="Application.PositionInInfiniteSortedArray" />
       <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
+      <item itemvalue="Application.PeakIndexInMountainArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PeakIndexInMountainArray" />
+        <item itemvalue="Application.PositionInInfiniteSortedArray" />
+        <item itemvalue="Application.FirstandLastPosition" />
         <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
         <item itemvalue="Application.Floor" />
-        <item itemvalue="Application.Ceiling" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +188,28 @@
       <option name="presentableId" value="Default" />
       <updated>1639480896944</updated>
     </task>
+    <task id="LOCAL-00001" summary="ceiling with letters">
+      <created>1640797830240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640797830240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ceiling with letters">
+      <created>1640797839711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640797839711</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solved a problem!">
+      <created>1640891788402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640891788402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,5 +240,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="ceiling with letters" />
+    <MESSAGE value="solved a problem!" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved a problem!" />
   </component>
 </project>
